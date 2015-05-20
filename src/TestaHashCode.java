@@ -16,7 +16,7 @@ public class TestaHashCode {
 
 		HashMap<Aluno, String> hashMap = new HashMap<Aluno,String>();
 		
-		hashMap.put(aluno, "asfas");
+		hashMap.put(aluno, "Aluno1");
 		
 		String string = hashMap.get(aluno2);
 		
