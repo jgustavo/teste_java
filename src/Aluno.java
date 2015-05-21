@@ -1,5 +1,5 @@
 
-public class Aluno implements Cloneable{
+public class Aluno {
 	int idade;
 	String nome;
 	
